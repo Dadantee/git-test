@@ -1,1 +1,2 @@
-example
+Example -- Upper first char
+New Line
