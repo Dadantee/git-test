@@ -1,8 +1,10 @@
 Example -- Upper first char
 New Line
-
+Внесли изменения локально
 Треним с STASH
 
 New Line Develop
 
 Change file for internet
+
+
