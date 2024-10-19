@@ -1,2 +1,4 @@
 Example -- Upper first char
 New Line
+
+Треним с STASH
