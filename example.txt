@@ -1,10 +1,13 @@
 Example -- Upper first char
 New Line
-Внесли изменения локально
+
 Треним с STASH
 
 New Line Develop
-123123321
+
 Change file for internet
 
+Конфликт, который решился автоматически
 
+
+123123
