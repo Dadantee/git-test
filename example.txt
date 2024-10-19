@@ -2,3 +2,5 @@ Example -- Upper first char
 New Line
 
 Треним с STASH
+
+New Line Develop
